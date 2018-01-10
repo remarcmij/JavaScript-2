@@ -1,0 +1,21 @@
+td {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+button {
+    margin: 8px;
+}
+
+.direction {
+    border: solid 1px black;
+    margin: 8px;
+    width: 50px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
